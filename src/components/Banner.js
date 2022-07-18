@@ -8,23 +8,48 @@ const Banner = () => {
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row">
           <div>
-            <h1 className="text-3xl font-bold mb-8 lg:text-5xl lg:leading-snug">
+            <h1
+              className="text-3xl font-bold mb-8 lg:text-5xl lg:leading-snug"
+              data-aos="fade-down"
+              data-aos-delay="500"
+            >
               {" "}
               Let's Explore <br /> Three-Dimensional Visually{" "}
             </h1>
-            <p className="font-secondary mb-12 max-w-[440px] mx-auto lg:mx-0">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint quod nesciunt nulla fuga, quibusdam error necessitatibus vitae quas odio. Quidem doloribus sapiente, eos debitis quisquam voluptates error veniam dolorum ea!
+            <p
+              className="font-secondary mb-12 max-w-[440px] mx-auto lg:mx-0"
+              data-aos="fade-down"
+              data-aos-delay="600"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint
+              quod nesciunt nulla fuga, quibusdam error necessitatibus vitae
+              quas odio. Quidem doloribus sapiente, eos debitis quisquam
+              voluptates error veniam dolorum ea!
             </p>
 
-            <div className="flex items-center justify-around space-x-4 max-w-[320px] mx-auto mb-12 lg:space-x-8 lg:mx-0 lg:max-w-none lg:justify-start">
+            <div
+              className="flex items-center justify-around space-x-4 max-w-[320px] mx-auto mb-12 lg:space-x-8 lg:mx-0 lg:max-w-none lg:justify-start"
+              data-aos="fade-down"
+              data-aos-delay="700"
+            >
               <button className="btn">Get it now</button>
-              <a className="border-b-2 border-transparent hover:border-white transition ease-out" href="#explore">Explore Device</a>
+              <a
+                className="border-b-2 border-transparent hover:border-white transition ease-out"
+                href="#explore"
+              >
+                Explore Device
+              </a>
             </div>
             <Users />
           </div>
 
           <div>
-            <img src={Img} alt="banner" />
+            <img
+              data-aos="fade-up"
+              data-aos-delay="800"
+              src={Img}
+              alt="banner"
+            />
           </div>
         </div>
       </div>
