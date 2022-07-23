@@ -39,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <Br /><Br />
 
 Deployed using vercel.
-link:- [Hulu Clone](https://https://meta-boom.vercel.app/)
+link:- [Meta-Boom](https://https://meta-boom.vercel.app/)
 
 <Br /><Br />
 
