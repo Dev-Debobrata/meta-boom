@@ -16,7 +16,7 @@ const Headsets = () => {
           Mixed Reality Headsets
         </h2>
 
-        <div className="grid gap-y-32 lg:grid-cols-2 lg:gap-9">
+        <div className="grid gap-y-32 lg:grid-cols-2 lg:gap-9 mt-32 sm:mt-0">
           <div
             className="relative"
             data-aos="zoom-in"
@@ -25,12 +25,13 @@ const Headsets = () => {
           >
             <img src={Headset1} alt="headset" />
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
-              <h4 className="text-xl font-semibold mb-2">Metaverse</h4>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint
-                quod nesciunt nulla fuga, quibusdam error necessitatibus vitae
-                quas odio. Quidem doloribus sapiente, eos debitis quisquam
-                voluptates error veniam dolorum ea!
+              <h4 className="text-xl font-semibold mb-2">Meta-verse</h4>
+              <p className="text-[15px]">
+                Anyone who has created a digital ‘Sim’ of themselves in the
+                gaming world will already be halfway towards understanding the
+                concept of the Meta-verse. This is a completely different type
+                of digital realm where users can fully immerse themselves into
+                virtual surroundings.
               </p>
             </div>
           </div>
@@ -43,11 +44,12 @@ const Headsets = () => {
             <img src={Headset2} alt="headset" />
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
               <h4 className="text-xl font-semibold mb-2">AIoT</h4>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint
-                quod nesciunt nulla fuga, quibusdam error necessitatibus vitae
-                quas odio. Quidem doloribus sapiente, eos debitis quisquam
-                voluptates error veniam dolorum ea!
+              <p className="text-[15px]">
+                Artificial intelligence of things (AIoT) is the combination of
+                artificial intelligence (AI) technologies and the internet of
+                things (IoT) infrastructure. AIoT's goal is to create more
+                efficient IoT operations, improve human-machine interactions and
+                enhance data management and analytics.
               </p>
             </div>
           </div>
@@ -59,12 +61,12 @@ const Headsets = () => {
           >
             <img src={Headset3} alt="headset" />
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
-              <h4 className="text-xl font-semibold mb-2">HoloLens</h4>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint
-                quod nesciunt nulla fuga, quibusdam error necessitatibus vitae
-                quas odio. Quidem doloribus sapiente, eos debitis quisquam
-                voluptates error veniam dolorum ea!
+              <h4 className="text-sm font-semibold mb-2">HoloLens</h4>
+              <p className="text-[15px]">
+                Using multiple sensors, advanced optics, and holographic
+                processing that melds seamlessly with its environment, Holo-Lens
+                can be used to display information, blend with the real world,
+                or even simulate a virtual world.
               </p>
             </div>
           </div>
@@ -76,12 +78,9 @@ const Headsets = () => {
           >
             <img src={Headset4} alt="headset" />
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
-              <h4 className="text-xl font-semibold mb-2">TPCASTT</h4>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint
-                quod nesciunt nulla fuga, quibusdam error necessitatibus vitae
-                quas odio. Quidem doloribus sapiente, eos debitis quisquam
-                voluptates error veniam dolorum ea!
+              <h4 className="text-xl font-semibold mb-2">TPCAST</h4>
+              <p className="text-[15px]">
+              The TPCast wireless adapter has been around for awhile now, and it's proven to provide quality wireless VR. If you have the standard Vive (it doesn't work with Pro) and don't have an extra PCIe slot in your PC, this is a good option.
               </p>
             </div>
           </div>
