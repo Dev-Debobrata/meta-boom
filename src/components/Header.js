@@ -1,5 +1,4 @@
 import React from "react";
-import Logo from "../assets/img/logo.svg";
 import Nav from "./Nav";
 import { HiMenu } from "react-icons/hi";
 
@@ -9,7 +8,7 @@ const Header = ({ setNavMobile }) => {
       <div className="container mx-auto">
         <div className="flex items-center justify-between">
           <a href="#logo">
-            <img className="h-[30px]" src={Logo} alt="logo" />
+          <h1 className="text-3xl font-bold text-white">Meta-Boom</h1>
           </a>
           <Nav />
           <HiMenu onClick={() => setNavMobile(true)} className="lg:hidden text-3xl text-white cursor-pointer" />
