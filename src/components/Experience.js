@@ -24,10 +24,7 @@ const Experience = () => {
               New Experience In Playing Games
             </h2>
             <p className="font-secondary mb-6">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint
-              quod nesciunt nulla fuga, quibusdam error necessitatibus vitae
-              quas odio. Quidem doloribus sapiente, eos debitis quisquam
-              voluptates error veniam dolorum ea!
+            VR is trending in the gaming industries that have got benefited from this immersive technology. There are the most successful implementer of cutting-edge VR gaming in the market. Many large-scale game development companies have jumped on the VR movement to transform the user experience.
             </p>
             <button className="btn">Get it now</button>
           </div>
