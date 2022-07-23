@@ -17,10 +17,7 @@ const Explore = () => {
             data-aos="fade-right"
             data-aos-offset="1300"
           >
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint quod
-            nesciunt nulla fuga, quibusdam error necessitatibus vitae quas odio.
-            Quidem doloribus sapiente, eos debitis quisquam voluptates error
-            veniam dolorum ea!
+            Buy our products explore VR starting today with cutting edge technologies and innovative softwares.
           </p>
           <form
             className="flex flex-col w-full space-y-4 gap-x-4 lg:flex-row lg:space-y-0"

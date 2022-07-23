@@ -21,10 +21,7 @@ const Banner = () => {
               data-aos="fade-down"
               data-aos-delay="600"
             >
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint
-              quod nesciunt nulla fuga, quibusdam error necessitatibus vitae
-              quas odio. Quidem doloribus sapiente, eos debitis quisquam
-              voluptates error veniam dolorum ea!
+              VR will soon become our new norm but how does that affect you? Well, it has the potential to change education, businesses, medical advancements, and how you view the world.
             </p>
 
             <div
