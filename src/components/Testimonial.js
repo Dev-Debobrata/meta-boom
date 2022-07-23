@@ -21,10 +21,7 @@ const Testimonial = () => {
               data-aos-offset="300"
               data-aos-delay="1800"
             >
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint
-              quod nesciunt nulla fuga, quibusdam error necessitatibus vitae
-              quas odio. Quidem doloribus sapiente, eos debitis quisquam
-              voluptates error veniam dolorum ea!
+              Meta-Boom always care about their client and client satisfaction is our top most priority.
             </p>
           </div>
           <div data-aos="fade-up" data-aos-offset="300" data-aos-delay="2000">
